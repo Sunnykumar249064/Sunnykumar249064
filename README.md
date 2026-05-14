@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnykumar249064&label=Profile%20views&color=0e75b6&style=flat" alt="sunnykumar249064" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **C++, Python**
 
 - 📫 How to reach me **sunnyk12345678k@gmail.com**
 
