@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sunny<br><br>💻 Learning Data Science and JavaScript  <br>📊 Interested in Data Analytics, Python, SQL, and AI  <br>🚀 Building projects and improving problem-solving skills  <br>🌱 Currently exploring Machine Learning and Data Visualization
+👋 Hi, I'm Sunny<br><br>💻 Learning Data Science  <br>📊 Interested in Data Analytics, Python, SQL, and AI  <br>🚀 Building projects and improving problem-solving skills  <br>🌱 Currently exploring Machine Learning and Data Visualization
 
 
 ## 🌐 Socials:
